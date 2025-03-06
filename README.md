@@ -1,5 +1,5 @@
 # hassio-addons
-Jose's Hass.io addons:
+GUi's Hass.io addons:
 
   - [Ecoforest-Proxy][ecoforest-proxy] - A proxy server Home Assistant addon for Ecoforest and NetFlame stoves.
   
